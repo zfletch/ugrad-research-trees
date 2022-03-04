@@ -5,7 +5,7 @@
     "version": "5.0.0"
   },
   "private": true,
-  "homepage": "https://rgorman.github.io/treebank-template/",
+  "homepage": "https://rgorman.github.io/ugrad-research-trees/",
   "dependencies": {
     "@primer/octicons-react": "^10.0.0",
     "@testing-library/react": "^11.2.5",
