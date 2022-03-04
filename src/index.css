@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  overflow: inherit!important;
+}
+
+.bg-dark {
+  background-color: #3a4a57 !important;
+}
